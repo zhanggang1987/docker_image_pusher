@@ -1,3 +1,2 @@
-nginx
 xhofe/alist:latest
 xiaoyaliu/alist
