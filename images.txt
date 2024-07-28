@@ -1,2 +1,3 @@
 xhofe/alist:latest
 xiaoyaliu/alist
+homeassistant/home-assistant
