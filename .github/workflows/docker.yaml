@@ -6,7 +6,7 @@ on:
     branches: [ main ]
   schedule:
     # cron 语法格式: 分 时 日 月 周
-    -cron: '00 23 * * 1'
+    - cron: '0 12 * * 1'
 
 env:
   ALIYUN_REGISTRY: "${{ secrets.ALIYUN_REGISTRY }}"
